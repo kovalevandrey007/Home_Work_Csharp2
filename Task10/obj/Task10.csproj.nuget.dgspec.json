@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Home_Work_Csharp2\\Task10\\Task10.csproj": {}
+    "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\Home_Work_Csharp2\\Task10\\Task10.csproj": {}
   },
   "projects": {
-    "D:\\Home_Work_Csharp2\\Task10\\Task10.csproj": {
+    "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\Home_Work_Csharp2\\Task10\\Task10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Home_Work_Csharp2\\Task10\\Task10.csproj",
+        "projectUniqueName": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\Home_Work_Csharp2\\Task10\\Task10.csproj",
         "projectName": "Task10",
-        "projectPath": "D:\\Home_Work_Csharp2\\Task10\\Task10.csproj",
+        "projectPath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\Home_Work_Csharp2\\Task10\\Task10.csproj",
         "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
-        "outputPath": "D:\\Home_Work_Csharp2\\Task10\\obj\\",
+        "outputPath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\Home_Work_Csharp2\\Task10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andy\\AppData\\Roaming\\NuGet\\NuGet.Config"
