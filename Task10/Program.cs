@@ -11,3 +11,7 @@ int a = int.Parse(Console.ReadLine());
 if (a>99 && a<1000)
 {a= a%100/10;
 Console.WriteLine(a);}
+else
+{
+    Console.WriteLine("Введите трехзачное число.");
+}

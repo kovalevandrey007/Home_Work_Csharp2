@@ -5,6 +5,17 @@
 7 -> да
 1 -> нет*/
 
-a>0 && a<8
-a(1, 7)
-count++
+Console.Write("Введи день недели: ");
+int a = int.Parse(Console.ReadLine());
+if (a>=1 && a<=5)
+{
+Console.WriteLine("нет");
+}
+    else if (a>=8)
+   { 
+    Console.WriteLine("Введи правельный день недели от 1 до 7: ");
+    }
+else
+{
+    Console.WriteLine("да");
+}
